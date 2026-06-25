@@ -82,7 +82,7 @@ git clone https://github.com/mokshakamra/Survana.git
 Add screenshots of:
 
 * Logo Of App - screenshots/logo.jpeg
-* Song List Screen
+* Song List Screen - screenshots/main_screen.jpeg
 * Music Playback Screen
 
 ## 🔮 Future Enhancements
