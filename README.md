@@ -83,7 +83,7 @@ Add screenshots of:
 
 * Logo Of App - screenshots/logo.jpeg
 * Song List Screen - screenshots/main_screen.jpeg
-* Music Playback Screen
+* Music Playback Screen - screenshots/playsong_screen.jpeg
 
 ## 🔮 Future Enhancements
 
