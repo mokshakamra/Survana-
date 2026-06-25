@@ -81,9 +81,9 @@ git clone https://github.com/mokshakamra/Survana.git
 
 Add screenshots of:
 
+* Logo Of App - screenshots/logo.jpeg
 * Song List Screen
 * Music Playback Screen
-* Seek Bar & Controls
 
 ## 🔮 Future Enhancements
 
